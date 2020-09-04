@@ -1,5 +1,10 @@
 # instagram-clone
 
+Created with React, GraphQL, and Firebase!
+
+# Link
+https://instagram-nu-clone.vercel.app
+
 ## Routes
 
 - / (feed page)
